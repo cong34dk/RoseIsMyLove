@@ -1,0 +1,20 @@
+#heading_Dau{
+    color: red;
+    font-size: 40px;
+    font-family: fantasy;
+}
+#heading_Hai{
+    color: black;
+    font-size: 25px;
+}
+.thongTin{
+    color: crimson;
+}
+.noidung{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.duongDan{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
